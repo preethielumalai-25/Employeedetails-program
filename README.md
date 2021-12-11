@@ -27,3 +27,8 @@ name = input('Enter the name: ').upper()
 data = get_data(name)
 
 print(data)
+
+
+OUTPUT :
+Enter the name: aaron
+['AARON,  JEFFERY M', 'SERGEANT', 'POLICE', '$1,01,442', '09/26/2005', '06-01-2016', 'SALARY', 'Fulltime-Regular']
